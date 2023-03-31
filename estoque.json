@@ -1,0 +1,143 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Gallo",
+      "email": "gallo@gallo.com",
+      "senha": "gallo123"
+    },
+    {
+      "id": 2,
+      "nome": "Indiano",
+      "email": "indiano@val.com",
+      "senha": "vaca123"
+    },
+    {
+      "id": 3,
+      "nome": "Carneiro",
+      "email": "carneiro@carneiro.com",
+      "senha": "gallo123"
+    },
+    {
+      "id": 4,
+      "nome": "Robinho",
+      "email": "robinho@od.com",
+      "senha": "roubarico123"
+    },
+    {
+      "id": 5
+    },
+    {
+      "nome": "Rose",
+      "email": "rose@rose.com",
+      "senha": "dsflkdslpfkdslfkds/flçdskf115234654gfd",
+      "id": 6
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "id_cliente": 1,
+      "data_pedido": "2023-03-31",
+      "total": 26
+    },
+    {
+      "id": 2,
+      "id_cliente": 2,
+      "data_pedido": "2023-02-10",
+      "total": 50
+    },
+    {
+      "id": 3,
+      "id_cliente": 3,
+      "data_pedido": "2023-03-31",
+      "total": 174
+    },
+    {
+      "id": 4,
+      "id_cliente": 3,
+      "data_pedido": "2023-03-30",
+      "total": 30
+    },
+    {
+      "id": 5,
+      "id_cliente": 4,
+      "data_pedido": "2022-12-28",
+      "total": 475.29
+    }
+  ],
+  "itens_pedidos": [
+    {
+      "id_pedido": 1,
+      "id_produto": 1,
+      "preco_unitario": 12,
+      "quantidade": 3,
+      "preco_total": 26
+    },
+    {
+      "id_pedido": 2,
+      "id_produto": 2,
+      "preco_unitario": 50,
+      "quantidade": 1,
+      "preco_total": 50
+    },
+    {
+      "id_pedido": 3,
+      "id_produto": 1,
+      "preco_unitario": 12,
+      "quantidade": 2,
+      "preco_total": 24
+    },
+    {
+      "id_pedido": 3,
+      "id_produto": 2,
+      "preco_unitario": 50,
+      "quantidade": 3,
+      "preco_total": 150
+    },
+    {
+      "id_pedido": 4,
+      "id_produto": 4,
+      "preco_unitario": 10,
+      "quantidade": 3,
+      "preco_total": 30
+    },
+    {
+      "id_pedido": 5,
+      "id_produto": 3,
+      "preco_unitario": 475.29,
+      "quantidade": 1,
+      "preco_total": 475.29
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "titulo": "Fini 425g",
+      "descricao": "Bala mais gostosa do mundo é fini.",
+      "preco": 12,
+      "nome_imagem": "fini.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Ferrero rocher",
+      "descricao": "Nutella e Amendoim nao tem como dar errado.",
+      "preco": 50,
+      "nome_imagem": "ferrero.png"
+    },
+    {
+      "id": 3,
+      "titulo": "V-Break Shimano",
+      "descricao": "Aperta o freio e reza pra Deus",
+      "preco": 475.29,
+      "nome_imagem": "v-break-shimano.png"
+    },
+    {
+      "id": 4,
+      "titulo": "Monster Energetico",
+      "descricao": "Não te dá asas",
+      "preco": 10,
+      "nome_imagem": "monster.png"
+    }
+  ]
+}
