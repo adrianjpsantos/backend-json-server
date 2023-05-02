@@ -25,13 +25,34 @@
       "senha": "roubarico123"
     },
     {
-      "id": 5
-    },
-    {
       "nome": "Rose",
       "email": "rose@rose.com",
       "senha": "dsflkdslpfkdslfkds/flçdskf115234654gfd",
       "id": 6
+    },
+    {
+      "nome": "Adrian José",
+      "email": "adr@adr.com",
+      "senha": "123456",
+      "id": 7
+    },
+    {
+      "nome": "Vinicius",
+      "email": "V@vin.com",
+      "senha": "123",
+      "id": 9
+    },
+    {
+      "nome": "Denilson",
+      "email": "d@nilson.com",
+      "senha": "123",
+      "id": 10
+    },
+    {
+      "nome": "Aline",
+      "email": "ali@ne.com",
+      "senha": "123456",
+      "id": 11
     }
   ],
   "pedidos": [
