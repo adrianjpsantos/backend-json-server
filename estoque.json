@@ -1,16 +1,10 @@
 {
   "clientes": [
     {
-      "id": 1,
-      "nome": "Gallo",
-      "email": "gallo@gallo.com",
-      "senha": "gallo123"
-    },
-    {
       "id": 2,
-      "nome": "Indiano",
+      "nome": "Indiano Val",
       "email": "indiano@val.com",
-      "senha": "vaca123"
+      "senha": "123"
     },
     {
       "id": 3,
@@ -37,10 +31,10 @@
       "id": 7
     },
     {
+      "id": 9,
       "nome": "Vinicius",
-      "email": "V@vin.com",
-      "senha": "123",
-      "id": 9
+      "email": "V@cius.com",
+      "senha": "123"
     },
     {
       "nome": "Denilson",
@@ -133,32 +127,32 @@
   ],
   "produtos": [
     {
-      "id": 1,
-      "titulo": "Fini 425g",
-      "descricao": "Bala mais gostosa do mundo é fini.",
-      "preco": 12,
-      "nome_imagem": "fini.png"
-    },
-    {
       "id": 2,
       "titulo": "Ferrero rocher",
       "descricao": "Nutella e Amendoim nao tem como dar errado.",
       "preco": 50,
-      "nome_imagem": "ferrero.png"
+      "nome_image": "https://images-americanas.b2w.io/produtos/01/00/img/57967/8/57967835_1GG.jpg"
     },
     {
       "id": 3,
       "titulo": "V-Break Shimano",
       "descricao": "Aperta o freio e reza pra Deus",
       "preco": 475.29,
-      "nome_imagem": "v-break-shimano.png"
+      "nome_image": "https://m.media-amazon.com/images/I/41xhoolgOdL._AC_.jpg"
     },
     {
       "id": 4,
       "titulo": "Monster Energetico",
       "descricao": "Não te dá asas",
       "preco": 10,
-      "nome_imagem": "monster.png"
+      "nome_image": "https://i.promobit.com.br/268/516288733716092727665156470578.png"
+    },
+    {
+      "titulo": "Kit Farol Milha + Neblina Botão Led Laranja Gol Bola G2 95/",
+      "descricao": "POISONCROSS PEÇAS E ACESSÓRIOS PARA MOTOS E NAUTICA  KIT FAROL DE MILHA AUXILIAR GOL BOLA G2 95 96 97 98 99 / GOL SPECIAL 00 01 02 + KIT LANTERNA NEBLINA TRASEIRA + BOTÃO ORIGINAL LED LARANJA AMBAR  Especificações Farol de Milha: • Lente lisa em vidro • Regulagem de foco manual • Encaixe de lâmpada H3 • Excelente qualidade • Suporta xenon • Produto novo  Especificações Lanterna Neblina • Lente em Acrílico • Aplicação por Encaixe • Acompanha Soquete • Similar ao Original • Excelente Qualidade • Produto novo  Itens Inclusos: • 02 Faróis de Milha - LD/LE • 01 Relé • 01 Chicote Eletrico • 01 Botão Original Led Laranja (Ambar) • 01 Lanterna de Neblina • 01 Soquete da Lanterna de Neblina • 02 Lâmpadas Super Branca H3 (BRINDE)  Serve nos Seguintes Veículos: • Gol G2 1995 • Gol G2 1996 • Gol G2 1997 • Gol G2 1998 • Gol G2 1999  • Gol Special 2000 • Gol Special 2001  INFORMAÇÕES IMPORTANTES:  • Não nos responsabilizamos pela má instalação ou mau uso do produto, para evitar transtornos procure um profissional especializado.  PREÇO DO KIT + FRETE POR CONTA DO COMPRADOR",
+      "preco": "322,98",
+      "nome_image": "https://http2.mlstatic.com/D_NQ_NP_877518-MLB48894218676_012022-O.webp",
+      "id": 5
     }
   ]
 }
